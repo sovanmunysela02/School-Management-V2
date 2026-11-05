@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងកាលវិភាគគ្រូបង្រៀន",
+  "description": "ប្រព័ន្ធគ្រប់គ្រង និងរៀបចំកាលវិភាគបង្រៀនរបស់គ្រូ និងថ្នាក់រៀនដោយស្វ័យប្រវត្តិ ជាមួយប្រព័ន្ធការពារការជាន់គ្នានៃម៉ោងបង្រៀន",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
